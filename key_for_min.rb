@@ -6,6 +6,6 @@ def key_for_min_value(name_hash)
   min _key = nil
   if name_hash == 0
     return nil
-  elsif 
+  
   end 
 end
